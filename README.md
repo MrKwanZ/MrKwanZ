@@ -1,6 +1,4 @@
 # Hi! Welcome to Kwanz' Page!
-
-## Introduction
 Nice to meet you! My name is Neil. I am a web developer.
 
 ## Programming Languages
