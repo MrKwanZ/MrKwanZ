@@ -5,4 +5,4 @@ Nice to meet you! My name is Neil. I am a web developer.
 I use **HTML**, **CSS**, **Node.js**, **React** as well as **TypeScript** to develop my web applications!
 
 ## Contact
-For any enquiries or collborations, feel free to email me at neilhkcheng@gmail.com
+For any enquiries or collaborations, feel free to email me at neilhkcheng@gmail.com
