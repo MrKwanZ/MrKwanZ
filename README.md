@@ -2,7 +2,7 @@
 Nice to meet you! My name is Neil. I am a web developer.
 
 ## Programming Languages
-I use **HTML**, **CSS**, **Node.js**, **React** as well as **TypeScript** to develop my web applications!
+I use **HTML**, **CSS**, **Node.js** and **React** to develop my web applications!
 
 ## Featured Projects
 ### Burger Builder
