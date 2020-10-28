@@ -5,6 +5,12 @@ Nice to meet you! My name is Neil. I am a web developer.
 I mainly use **HTML**, **CSS**, **Node.js** and **React** to develop my web applications!
 
 ## Featured Projects
+### uHost Web Hosting site
+A static website that simulates a web hosting site with different hosting plans.
+Website is built with HTML5 and CSS3.
+
+<a href="https://uhostbync.netlify.app/">Click here to view the website!</a>
+
 ### Burger Builder
 A burger builder web application that allows user to customize their desired burger.
 Developed using React, Redux, React Hooks. Utilized Firebase as the cloud database.
